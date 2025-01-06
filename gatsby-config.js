@@ -6,10 +6,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: "Zene and Zeanne Beat Energy Gap",
+    title: "The Intramurals",
     author: "Au-venturous Buddy"
   },
-  pathPrefix: "/ZNZN-V2-MBWP-V1-I1",
+  pathPrefix: "/ZNZN-V2-MBFB-V2-I1",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -27,8 +27,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Zene and Zeanne Beat Energy Gap`,
-        short_name: `ZNZN-V2-MBWP-V1-I1`,
+        name: `The Intramurals`,
+        short_name: `ZNZN-V2-MBFB-V2-I1`,
         start_url: `/`,
         background_color: `#017BFF`,
         theme_color: `#017BFF`,
